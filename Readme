@@ -1,0 +1,41 @@
+# ✅ To-Do List Web App
+
+A simple and interactive **To-Do List** web application built using HTML, CSS, and JavaScript. Users can type in tasks, mark them as complete, and delete them as needed.
+
+## 📸 Preview
+
+![To-Do List Screenshot](#) *(Add screenshot here if needed)*
+
+---
+
+## 🛠️ Features
+
+- ✅ Add new tasks to the list
+- ✔️ Mark tasks as completed
+- 🗑️ Delete tasks from the list
+- 💾 Simple UI using Font Awesome icons
+- 💡 Real-time DOM updates with JavaScript
+
+---
+
+## 📂 Project Structure
+
+
+todo-list-app/
+│
+├── index.html # Main HTML structure
+├── style.css # CSS styles (not provided here)
+├── script.js # JavaScript logic
+└── README.md # Project documentation
+
+
+---
+
+## 🔧 How It Works
+
+- **Add Task**: Type in the textarea and click the ✔️ button.
+- **Mark Complete**: Click the ✔️ icon next to a task.
+- **Delete Task**: Click the 🗑️ icon next to a task.
+
+---
+
